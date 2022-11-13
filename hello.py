@@ -1,4 +1,8 @@
 a = 3
-b = input()
+<<<<<<< HEAD
+b = int(input())
+=======
+b = int(input())
+>>>>>>> user2
 
 print(a + b)
